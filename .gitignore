@@ -4,7 +4,7 @@ node_modules
 # Hardhat files
 /cache
 /artifacts
-!/artifacts/contracts/MyNFT.sol
+!/artifacts/contracts
 
 # TypeChain files
 /typechain
