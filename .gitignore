@@ -4,6 +4,7 @@ node_modules
 # Hardhat files
 /cache
 /artifacts
+!/artifacts/contracts/MyNFT.sol
 
 # TypeChain files
 /typechain
@@ -16,4 +17,3 @@ node_modules
 # Hardhat Ignition default folder for deployments against a local node
 ignition/deployments/chain-31337
 
-!artifacts/contracts
